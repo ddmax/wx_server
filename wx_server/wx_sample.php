@@ -4,7 +4,7 @@
   */
 
 //define your token
-define("TOKEN", "weixin");
+define("TOKEN", "wechatddmax");
 $wechatObj = new wechatCallbackapiTest();
 if ($_GET['echostr'])
 {
